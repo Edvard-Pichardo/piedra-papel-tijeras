@@ -11,7 +11,7 @@ Juego clásico implementado utilizando Programación Orientada a Objetos (POO), 
 
 </div>
 
----
+
 
 # Descripción
 
@@ -27,7 +27,7 @@ Más allá de reproducir las reglas del juego, el objetivo principal fue aplicar
 - Pruebas unitarias.
 - Separación entre lógica de negocio e interfaz.
 
----
+
 
 # Características
 
@@ -42,7 +42,7 @@ Más allá de reproducir las reglas del juego, el objetivo principal fue aplicar
 - Interfaz gráfica.
 - Proyecto empaquetado con `pyproject.toml`.
 
----
+
 
 # Arquitectura del proyecto
 
@@ -77,7 +77,7 @@ src/
        Punto de entrada de la interfaz gráfica.
 ```
 
----
+
 
 # Tecnologías
 
@@ -88,7 +88,7 @@ src/
 - Git
 - GitHub
 
----
+
 
 # Estructura del repositorio
 
@@ -102,7 +102,7 @@ piedra-papel-tijeras/
 └── README.md
 ```
 
----
+
 
 # Instalación
 
@@ -124,7 +124,7 @@ Instalar dependencias (desarrollo)
 pip install -e .[dev]
 ```
 
----
+
 
 # Ejecutar el proyecto
 
@@ -140,7 +140,7 @@ Versión gráfica
 python -m src.main_gui
 ```
 
----
+
 
 # Ejecutar las pruebas con ``pytest``
 
@@ -148,7 +148,7 @@ python -m src.main_gui
 pytest
 ```
 
----
+
 
 # Flujo del programa
 
@@ -180,7 +180,7 @@ Actualizar estadísticas
 ¿Nueva partida?
 ```
 
----
+
 
 # Aprendizajes
 
@@ -193,7 +193,7 @@ Durante el desarrollo de este proyecto se pusieron en práctica conocimientos re
 - Automatización mediante pruebas.
 - Control de versiones con Git.
 
----
+
 
 # Posibles mejoras
 
@@ -205,7 +205,7 @@ Durante el desarrollo de este proyecto se pusieron en práctica conocimientos re
 - Base de datos SQLite.
 - Empaquetado como aplicación ejecutable.
 
----
+
 
 # Licencia
 
@@ -213,7 +213,7 @@ Este proyecto se distribuye bajo la licencia **MIT**.
 
 Consulta el archivo **LICENSE** para más información.
 
----
+
 
 # Autor
 
