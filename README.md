@@ -222,10 +222,6 @@ Consulta el archivo **LICENSE** para más información.
 **Licenciado en Física**  
 Universidad Nacional Autónoma de México (UNAM)
 
-GitHub
-
-https://github.com/Edvard-Pichardo
-
 ---
 
 <div align="center">
