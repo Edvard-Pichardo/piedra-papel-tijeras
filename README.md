@@ -1,6 +1,5 @@
 # Juego Piedra, Papel o Tijeras
 
-![Nivel](https://img.shields.io/badge/Nivel-Intermedio-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Tests](https://img.shields.io/badge/Tests-18%20passed-success?logo=pytest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
