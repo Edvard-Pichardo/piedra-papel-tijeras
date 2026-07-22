@@ -44,16 +44,6 @@ Más allá de reproducir las reglas del juego, el objetivo principal fue aplicar
 
 
 
-# Tecnologías
-
-- Python 3.10+
-- Biblioteca estándar de Python
-- Pytest
-- JSON
-- Git
-- GitHub
-
-
 
 # Estructura del repositorio
 
@@ -177,7 +167,14 @@ Actualizar estadísticas
 ¿Nueva partida?
 ```
 
+# Tecnologías
 
+- Python 3.10+
+- Biblioteca estándar de Python
+- Pytest
+- JSON
+- Git
+- GitHub
 
 # Aprendizajes
 
