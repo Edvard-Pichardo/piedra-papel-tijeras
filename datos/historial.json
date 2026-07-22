@@ -1,0 +1,98 @@
+[
+  {
+    "fecha": "2026-07-21T20:59:04.138758",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "piedra"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "piedra"
+    },
+    "ganador": "Empate"
+  },
+  {
+    "fecha": "2026-07-21T20:59:11.957799",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "tijeras"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "piedra"
+    },
+    "ganador": "IA"
+  },
+  {
+    "fecha": "2026-07-21T20:59:16.492862",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "papel"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "piedra"
+    },
+    "ganador": "Humano"
+  },
+  {
+    "fecha": "2026-07-21T20:59:23.644688",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "piedra"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "piedra"
+    },
+    "ganador": "Empate"
+  },
+  {
+    "fecha": "2026-07-21T20:59:27.486354",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "piedra"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "tijeras"
+    },
+    "ganador": "Humano"
+  },
+  {
+    "fecha": "2026-07-21T20:59:30.909437",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "piedra"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "piedra"
+    },
+    "ganador": "Empate"
+  },
+  {
+    "fecha": "2026-07-21T20:59:34.412112",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "piedra"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "papel"
+    },
+    "ganador": "IA"
+  },
+  {
+    "fecha": "2026-07-21T20:59:38.081745",
+    "jugador1": {
+      "nombre": "Humano",
+      "eleccion": "papel"
+    },
+    "jugador2": {
+      "nombre": "IA",
+      "eleccion": "piedra"
+    },
+    "ganador": "Humano"
+  }
+]
