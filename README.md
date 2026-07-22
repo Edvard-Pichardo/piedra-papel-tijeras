@@ -44,6 +44,29 @@ Más allá de reproducir las reglas del juego, el objetivo principal fue aplicar
 
 
 
+# Tecnologías
+
+- Python 3.10+
+- Biblioteca estándar de Python
+- Pytest
+- JSON
+- Git
+- GitHub
+
+
+
+# Estructura del repositorio
+
+```
+piedra-papel-tijeras/
+
+├── src/
+├── test/
+├── LICENSE
+├── pyproject.toml
+└── README.md
+```
+
 # Arquitectura del proyecto
 
 ```
@@ -76,32 +99,6 @@ src/
 └── main_gui.py
        Punto de entrada de la interfaz gráfica.
 ```
-
-
-
-# Tecnologías
-
-- Python 3.10+
-- Biblioteca estándar de Python
-- Pytest
-- JSON
-- Git
-- GitHub
-
-
-
-# Estructura del repositorio
-
-```
-piedra-papel-tijeras/
-
-├── src/
-├── test/
-├── LICENSE
-├── pyproject.toml
-└── README.md
-```
-
 
 
 # Instalación
