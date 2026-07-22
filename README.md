@@ -48,8 +48,8 @@ Más allá de reproducir las reglas del juego, el objetivo principal fue aplicar
 - Proyecto empaquetado con `pyproject.toml`.
 
 <p align="center">
-  <img src="images/interfaz.png" width="200">
-  <img src="images/partida_curso.png" width="200">
+  <img src="images/interfaz.png" width="400">
+  <img src="images/partida_curso.png" width="400">
   <br>
   <em>Figura: Interfaz de la aplicación </em>
 </p>
