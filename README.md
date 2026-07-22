@@ -11,6 +11,11 @@ Juego clásico implementado utilizando Programación Orientada a Objetos (POO), 
 
 </div>
 
+<p align="center">
+
+<img src="images/funciona.gif">
+
+</p>
 
 
 # Descripción
