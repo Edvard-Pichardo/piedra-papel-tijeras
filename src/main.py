@@ -86,3 +86,6 @@ def main() -> None:
         print(gestor_est.eleccion_mas_usada())
         print(gestor_est.porcentaje_empates())
         logger.info("** Fin de la aplicación **")
+
+if __name__ == "__main__":
+    main()
