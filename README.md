@@ -79,6 +79,7 @@ Porcentaje de empates: 0.00% (0 de 2)
 
 ## Estructura del proyecto
 
+```bash
 piedra-papel-tijeras/
 ├── README.md
 ├── pyproject.toml
@@ -100,4 +101,4 @@ piedra-papel-tijeras/
 │   └── test_estadisticas.py
 ├── datos/                     # Creado en ejecución (ignorado por git)
 └── logs/                      # Creado en ejecución (ignorado por git)
-
+```
