@@ -50,6 +50,7 @@ tests/test_juego.py::TestJuego::test_gana_jugador1 PASSED
 
 ## Demostración:
 
+```bash
 $ python -m src.main
 
 Humano, elige (piedra/papel/tijeras): papel
@@ -67,9 +68,36 @@ Resultado: Humano [tijeras] vs IA [papel]
 ¿Jugar otra vez? (s/n): n
 ¡Gracias por jugar!
 
-📊 Estadísticas de todas las partidas jugadas:
+Estadísticas de todas las partidas jugadas:
 Victorias por jugador:
   - Humano: 2
   - IA: 0
+
 Elección más usada: 'papel' (2 veces)
 Porcentaje de empates: 0.00% (0 de 2)
+```
+
+## Estructura del proyecto
+
+piedra-papel-tijeras/
+├── README.md
+├── pyproject.toml
+├── .gitignore
+├── src/
+│   ├── __init__.py
+│   ├── config.py              # Configuración de logging y rutas
+│   ├── excepciones.py         # EleccionInvalidaError, HistorialCorruptoError
+│   ├── modelos.py             # Eleccion, Jugador, JugadorHumano, JugadorIA
+│   ├── juego.py               # Lógica del juego, ResultadoRonda
+│   ├── persistencia.py        # GestorArchivoJSON (guardar/cargar historial)
+│   ├── estadisticas.py        # GestorEstadisticas (métricas)
+│   └── main.py                # Punto de entrada
+├── tests/
+│   ├── __init__.py
+│   ├── test_modelos.py
+│   ├── test_juego.py
+│   ├── test_persistencia.py
+│   └── test_estadisticas.py
+├── datos/                     # Creado en ejecución (ignorado por git)
+└── logs/                      # Creado en ejecución (ignorado por git)
+
