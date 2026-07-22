@@ -47,6 +47,12 @@ Más allá de reproducir las reglas del juego, el objetivo principal fue aplicar
 - Interfaz gráfica.
 - Proyecto empaquetado con `pyproject.toml`.
 
+<p align="center">
+  <img src="images/interfaz.png" width="200">
+  <img src="images/partida_curso.png" width="200">
+  <br>
+  <em>Figura: Interfaz de la aplicación </em>
+</p>
 
 
 
