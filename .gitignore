@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Archivos generados por la app
+logs/
+datos/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+.env
