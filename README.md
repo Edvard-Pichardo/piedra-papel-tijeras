@@ -175,6 +175,6 @@ pytest
 **Cristian Eduardo Pichardo Rico**
 
 Egresado de la Licenciatura en Física, Facultad de Ciencias, UNAM
-GitHub: [@Edvard-Pichardo](https://github.com/Edvard-Pichardo)
+[LinkedIn](https://www.linkedin.com/in/edvard-pichardo) · GitHub: [@Edvard-Pichardo](https://github.com/Edvard-Pichardo)
 
 Distribuido bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más información.
